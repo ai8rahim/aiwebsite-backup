@@ -19,3 +19,10 @@ Some of my industry engagements include vulnerability assessments, security arch
 
 I also volunteer as a steering committee member of P-TECH, a committee member of West Australian Maldivian Association ([WAMA](http://wamainc.com.au/)), a board member at the [Quinns Beach Primary School](http://www.quinnsbeachps.wa.edu.au/).
 
+---
+
+## Contact Details
+
+* Twitter: [@ai8rahim](https://twitter.com/ai8rahim?lang=en)
+* LinkedIn: [https://www.linkedin.com/in/ai8rahim/](https://www.linkedin.com/in/ai8rahim/)
+

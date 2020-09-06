@@ -17,15 +17,15 @@ enableEmoji = true
 [permalinks]
   "/" = "/:filename"
 
-[menu]
-  [[menu.main]]
-    name = "About Me"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Contact Details"
-    url = "/contact"
-    weight = 2
+# [menu]
+#   [[menu.main]]
+#     name = "About Me"
+#     url = "/"
+#     weight = 1
+#   [[menu.main]]
+#     name = "Contact Details"
+#     url = "/contact"
+#     weight = 2
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
