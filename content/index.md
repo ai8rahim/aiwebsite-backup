@@ -1,12 +1,12 @@
 ---
-title: "About Me"
+title: "Dr Ahmed Ibrahim"
 date: "2020-08-06"
 draft: false
 ---
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Hello and welcome to my website. I am a [cyber security academic](https://www.ecu.edu.au/schools/science/staff/profiles/lecturers/dr-ahmed-ibrahim) at the Edith Cowan University ([ECU](https://www.ecu.edu.au/) [@EdithCowanUni](https://twitter.com/EdithCowanUni)), School of Science. I am also a researcher at the ECU Security Research Institute. I teach network security in the Master of Cyber Security program. I am also the Course Coordinator of the Bachelor of Science ([Cyber Security](https://www.ecu.edu.au/degrees/courses/bachelor-of-science-cyber-security)) program.
+Hello and welcome to my website. I am a [cyber security academic](https://www.ecu.edu.au/schools/science/staff/profiles/lecturers/dr-ahmed-ibrahim) at the Edith Cowan University ([ECU](https://www.ecu.edu.au/) [@EdithCowanUni](https://twitter.com/EdithCowanUni)), School of Science. I am also a researcher at the ECU Security Research Institute. I teach network security in the Master of Cyber Security program. I am also the Course Coordinator for the Bachelor of Science ([Cyber Security](https://www.ecu.edu.au/degrees/courses/bachelor-of-science-cyber-security)) program.
 
 My research is focused on tackling cyber security challenges in areas related to: 
 * critical infrastructure and Internet of Things (IoT), 
