@@ -1,6 +1,6 @@
 ---
 title: "Dr Ahmed Ibrahim"
-date: "2020-08-06"
+date: "2021-02-07"
 draft: false
 ---
 
@@ -17,8 +17,7 @@ Currently, I supervise several PhD students in these areas. If you are intereste
 
 Some of my industry engagements include vulnerability assessments, security architecture reviews, security audits, website security assessments, desktop reviews, and risk assessments for the federal/state/local government and critical infrastructure providers.
 
-I also volunteer as a steering committee member of P-TECH, a committee member of West Australian Maldivian Association ([WAMA](http://wamainc.com.au/)), a board member at the [Quinns Beach Primary School](http://www.quinnsbeachps.wa.edu.au/).
-
+I also volunteer at the [Quinns Beach Primary School](http://www.quinnsbeachps.wa.edu.au/) (School Board) and at P-TECH (Steering Committee).
 ---
 
 ## Contact Details
