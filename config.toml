@@ -11,7 +11,7 @@ enableEmoji = true
   description = "Official website of Dr Ahmed Ibrahim."
   favicon = "favicon.ico"
   [params.footer]
-    text = "Copyright © 2020 Dr Ahmed Ibrahim"
+    text = "Copyright © 2021 Dr Ahmed Ibrahim"
     url = "https://ahmedibrahim.net"
 
 [permalinks]
