@@ -26,4 +26,4 @@ I also volunteer at the [Quinns Beach Primary School](http://www.quinnsbeachps.w
 * Twitter: [@ai8rahim](https://twitter.com/ai8rahim?lang=en)
 * LinkedIn: [https://www.linkedin.com/in/ai8rahim/](https://www.linkedin.com/in/ai8rahim/)
 * The Cyber Academic Podcast: [http://thecyberacademic.com](http://thecyberacademic.com) | Listen on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-cyber-academic/id1538398086) and [Spotify](https://open.spotify.com/show/7xm4QbsrbXK7Q7qMh60xkY) | Follow [#CyberAcademic](https://twitter.com/hashtag/TheCyberAcademic)
-* Cyber Vaahaka Podcast (Co-hosted with Dr Ibrahim Shiyam): [http://cybervaahaka.com](http://cybervaahaka.com) | Join us at [Clubhouse](https://www.clubhouse.com/club/cyber-vaahaka) | Follow [#CyberVaahaka](https://twitter.com/hashtag/CyberVaahaka)
+* Cyber Vaahaka Podcast: [http://cybervaahaka.com](http://cybervaahaka.com) | Join us at [Clubhouse](https://www.clubhouse.com/club/cyber-vaahaka) | Follow [#CyberVaahaka](https://twitter.com/hashtag/CyberVaahaka)
