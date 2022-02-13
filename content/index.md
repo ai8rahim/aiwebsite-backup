@@ -17,7 +17,7 @@ I currently supervise several PhD students in these areas. If you are interested
 
 Some of my industry engagements include vulnerability assessments, security architecture reviews, security audits, website security assessments, desktop reviews, and risk assessments for the federal/state/local government and critical infrastructure providers.
 
-I also volunteer at the [Quinns Beach Primary School](http://www.quinnsbeachps.wa.edu.au/) (School Board) and at P-TECH (Steering Committee).
+I also volunteer at the [Quinns Beach Primary School](http://www.quinnsbeachps.wa.edu.au/) (School Board).
 
 ---
 
